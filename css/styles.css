@@ -1,0 +1,30 @@
+
+
+body{
+    background-color:antiquewhite ;
+}
+
+hr{
+    background-color: antiquewhite;
+    border-style:dotted none none;
+    border-top-style:dotted;
+    border-color:grey;
+    border-width: 5px;
+    height:0px; 
+    width:10%;
+}
+
+h1{
+
+    color:darkcyan;
+
+}
+
+h3{
+    color:brown;
+}
+
+.circular{
+
+    border-radius: 200px;
+}
